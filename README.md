@@ -1,5 +1,5 @@
-# kong2_tai5gi2_tng1_tioh8si5
-節目公開資料-講臺語當著時Kóng-tâi-gí tng tio̍h-sî
+# 講臺語當著時 Kóng-tâi-gí tng tio̍h-sî
+公開整理的節目資料
 
 ## 詞彙學習
 第二單元『詞彙學習』的詞彙清單。
