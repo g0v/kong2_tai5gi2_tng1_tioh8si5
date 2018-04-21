@@ -2,9 +2,9 @@
 公開整理的節目資料，歡迎分享、修改。
 
 ## 逐字稿
-佇[hackmd](https://hackmd.io/s/Skb7uH_2M)，感謝媠媠的小丸子小姐的整理。
+佇[hackmd](https://hackmd.io/s/Skb7uH_2M)，感謝媠媠的[Shiangshiou Hu](https://www.facebook.com/shiangshiou.hu)用心整理。
 
-阮有閒的時，會將hackmd的資料閣kho̍k（複製）一份過來備份！抑或這馬看著這段的你有閒，歡迎鬥備份整理～:D
+阮有閒的時，會將hackmd的資料閣kho̍k（複製）一份過來備份！抑或這馬看著這段的你有閒，歡迎來hackmd鬥整理～鬥備份來Github。:D
 
 ## 詞彙學習
 第二單元『詞彙學習』的詞彙清單。
